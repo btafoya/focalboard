@@ -54,5 +54,6 @@
             "maxArrayValues": 64,
             "maxStructFields": -1
         }
-    }
+    },
+    "makefile.configureOnOpen": false
 }
